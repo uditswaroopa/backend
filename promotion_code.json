@@ -1,0 +1,26 @@
+[
+  {
+    "code" : "WELCOME",
+    "discount_percentage" : 20,
+    "product_applicable" : [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  {
+    "code" : "PURPLEHEART",
+    "discount_percentage" : 50,
+    "product_applicable" : [
+      "1"
+    ]
+  },
+  {
+    "code" : "TAKEMETOSKY",
+    "discount_percentage" : 20,
+    "product_applicable" : [
+      "2",
+      "3"
+    ]
+  }
+]
