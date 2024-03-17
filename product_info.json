@@ -1,0 +1,12 @@
+{
+  "id" : "1",
+  "name" : "Premium",
+  "price" : "16.99",
+  "currency" : "usd",
+  "thumbnail" : "",
+  "features": [
+    "loreum Ipsum 2",
+    "loreum Ipsum 1",
+    "Loreum Ipsum 3"
+  ]
+}
